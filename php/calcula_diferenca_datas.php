@@ -7,4 +7,3 @@ function calcular_diferenca_datas(string $data1, string $data2): string {
 
     return $intervalo->format('%y anos, %m meses e %d dias');
 }
-
